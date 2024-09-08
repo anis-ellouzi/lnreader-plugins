@@ -911,6 +911,15 @@
 		"iconUrl": "https://raw.githubusercontent.com/anis-ellouzi/lnreader-plugins/plugins/v/public/static/multisrc/readwn/wuxiaspace/icon.png"
 	},
 	{
+		"id": "WuxiaSpot",
+		"name": "WuxiaSpot",
+		"site": "https://www.wuxiaspot.com",
+		"lang": "English",
+		"version": "1.0.2",
+		"url": "https://raw.githubusercontent.com/anis-ellouzi/lnreader-plugins/plugins/v/.js/src/plugins/english/WuxiaSpot[readwn].js",
+		"iconUrl": "https://raw.githubusercontent.com/anis-ellouzi/lnreader-plugins/plugins/v/public/static/multisrc/readwn/wuxiaspot/icon.png"
+	},
+	{
 		"id": "wuxiav",
 		"name": "WuxiaV",
 		"site": "https://www.wuxiav.com",
