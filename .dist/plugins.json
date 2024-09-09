@@ -875,15 +875,6 @@
 		"iconUrl": "https://raw.githubusercontent.com/anis-ellouzi/lnreader-plugins/plugins/v/public/static/multisrc/readwn/wuxiacity/icon.png"
 	},
 	{
-		"id": "wuxialocal",
-		"name": "WuxiaLocal",
-		"site": "https://www.wuxiaspot.com",
-		"lang": "English",
-		"version": "1.0.5",
-		"url": "https://raw.githubusercontent.com/anis-ellouzi/lnreader-plugins/plugins/v/.js/src/plugins/english/WuxiaLocal[local].js",
-		"iconUrl": "https://raw.githubusercontent.com/anis-ellouzi/lnreader-plugins/plugins/v/public/static/multisrc/local/wuxialocal/icon.png"
-	},
-	{
 		"id": "wuxiamtl",
 		"name": "Fans MTL",
 		"site": "https://www.fansmtl.org",
